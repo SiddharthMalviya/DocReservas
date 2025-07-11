@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             DocReservaTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "Androidss",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
